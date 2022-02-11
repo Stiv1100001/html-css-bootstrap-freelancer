@@ -1,0 +1,11 @@
+/* Color utility */
+
+.navbar-blue {
+    background-color: #2C3E50;
+    height: 3rem;
+}
+
+.element {
+    background-color: coral;
+    height: 3rem;
+}
