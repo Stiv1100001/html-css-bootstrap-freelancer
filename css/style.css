@@ -2,10 +2,20 @@
 
 .navbar-blue {
     background-color: #2C3E50;
-    height: 3rem;
+    height: 10vh;
+}
+
+.jumbo-green {
+    background-color: rgb(26, 188, 156);
+    height: 40vh;
 }
 
 .element {
     background-color: coral;
-    height: 3rem;
+    height: 10vh;
+}
+
+.jumbo-element {
+    background-color: darksalmon;
+    height: 10vh;
 }
