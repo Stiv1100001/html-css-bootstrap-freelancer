@@ -7,7 +7,6 @@
 
 .jumbo-green {
     background-color: rgb(26, 188, 156);
-    height: 40vh;
 }
 
 .element {
@@ -18,4 +17,19 @@
 .jumbo-element {
     background-color: darksalmon;
     height: 10vh;
+}
+
+.footer-blue {
+    background-color: rgb(58, 84, 109);
+    height: 30vh;
+}
+
+.footer-deep-blue {
+    background-color: rgb(44, 62, 80);
+    height: 20%;
+}
+
+.port-element {
+    background-color: blueviolet;
+    height: 15vh;
 }
