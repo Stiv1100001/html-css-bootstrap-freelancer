@@ -25,3 +25,7 @@
     border: 2px solid white;
     border-radius: 2px;
 }
+
+.line-blue {
+    border-color: rgb(33, 37, 41);
+}
