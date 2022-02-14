@@ -10,10 +10,18 @@
 
 .footer-blue {
     background-color: rgb(58, 84, 109);
-    height: 30vh;
 }
 
 .footer-deep-blue {
     background-color: rgb(44, 62, 80);
-    height: 20%;
+}
+
+.img-profile {
+    width: 250px;
+}
+
+.line {
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 2px;
 }
